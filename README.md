@@ -1,6 +1,6 @@
-# Model-Correction-2
+# Model-Correction
 Making a scatter plot, 
-creation of polynomial terms, 
+Creating polynomial terms, 
 log transformation, 
 cox-box transformation, 
 Train a linear regression model using OLS function from statsmodels, 
